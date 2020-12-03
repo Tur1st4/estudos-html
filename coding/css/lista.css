@@ -1,0 +1,12 @@
+.primeira li {
+  background: #000;
+  color: #fff;
+}
+
+div {
+  border: 1px solid red;
+  margin: 10px;
+  height: 100px;
+  width: 100px;
+  float: left; /*Deixar uma div do lado da outra, mas não é recomendado usar*/
+}

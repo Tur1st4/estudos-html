@@ -1,0 +1,7 @@
+div {
+  border: 2px dotted #ccc100;
+  padding: 10px 20px 30px 40px; /*Segue o sentido horario, cima, direita, baixo, esquerda*/
+  /*também pode usar padding-top:, padding-left:, padding-right:; padding-bottom:*/
+  /*Tudo isso também serve para margin*/
+  margin-top: 20px;
+}
