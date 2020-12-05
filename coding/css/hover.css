@@ -1,0 +1,12 @@
+ul li {
+  color: red;
+  list-style: none;
+}
+
+ul li:hover {
+  color: green;
+} /*Passar o mouse*/
+
+ul li::before {
+  content: "→"
+}
